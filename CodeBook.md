@@ -1,7 +1,9 @@
 #Code Book
+
 The final summary tidy dataset "tidydata.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
 
 ##Description
+
 Data in dataset contains 180 rows and 68 columns for
 
 •mean(): Mean value
